@@ -1,0 +1,6 @@
+PACIENTE FICTICIO (caso de prueba). Hombre de 58 años, cama 12.
+Evolución previa: neumonía adquirida en la comunidad, en manejo con antibiótico, día 3 de hospitalización.
+Hoy refiere menos tos y mejor sensación de falta de aire. Sin fiebre desde ayer.
+Signos vitales: TA 118/76, FC 82, FR 18, temperatura 36.8, saturación 94% con oxígeno por cánula.
+Pendiente: control de hemograma en la tarde.
+Plan dictado por el interno: continuar antibiótico y vigilar saturación.

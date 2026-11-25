@@ -1,0 +1,5 @@
+PACIENTE FICTICIO (caso de prueba). Hombre de 45 años, cama 3.
+Evolución previa: dolor abdominal en estudio, día 1 de hospitalización.
+Hoy refiere dolor 4 de 10, localizado en fosa ilíaca derecha, sin vómito.
+Signos vitales: TA 125/80, FC 76, temperatura 37.1.
+Pendiente: resultado de ecografía abdominal.

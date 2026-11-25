@@ -1,0 +1,17 @@
+[
+  {
+    "archivo": "paquetes/evolucion_clinica_co/ejemplos/caso1.txt",
+    "debe_contener": ["118/76", "94%", "hemograma"],
+    "debe_marcar_faltante": ["alergia"]
+  },
+  {
+    "archivo": "paquetes/evolucion_clinica_co/ejemplos/caso2.txt",
+    "debe_contener": ["68 kg", "penicilina"],
+    "debe_marcar_faltante": ["signos vitales"]
+  },
+  {
+    "archivo": "paquetes/evolucion_clinica_co/ejemplos/caso3.txt",
+    "debe_contener": ["125/80", "ecografía"],
+    "debe_marcar_faltante": ["alergia"]
+  }
+]

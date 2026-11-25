@@ -1,0 +1,6 @@
+{
+  "descripcion": "Borrador de nota de evolución (SOAP) para internos, a partir de datos sueltos del paciente",
+  "temperatura": 0.2,
+  "max_tokens": 1500,
+  "modelo_por_defecto": "REEMPLAZAR_CON_ID_DE_MODELO_DE_TU_CONSOLA_DE_BEDROCK"
+}

@@ -69,3 +69,15 @@ Para cada caso ficticio, el evaluador revisa que el borrador tenga las secciones
 ## Estado y próximos pasos
 
 Versión mínima. Si funciona bien, siguen: streaming, procesamiento por lotes con herramientas, grader de modelo para fidelidad, comparación de modelos (calidad, latencia y costo) y un segundo paquete (por ejemplo, notas de reunión para CRM).
+
+## Hoja de ruta
+
+- [ ] **Streaming** de la respuesta para ver el borrador mientras se genera.
+- [ ] **Procesamiento por lotes con herramientas** (tool use) para un turno completo de pacientes.
+- [ ] **Grader de modelo** que revise la fidelidad del borrador frente a la nota, además de los graders de código.
+- [ ] **Comparación Haiku vs. Sonnet** en calidad, latencia y costo, con el mismo set de evaluación.
+- [ ] **Más casos de prueba** ficticios, revisados por alguien del área de la salud.
+
+## Licencia
+
+[MIT](LICENSE) © 2026 Ktalyna García Benavides.
